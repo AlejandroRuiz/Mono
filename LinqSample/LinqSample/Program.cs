@@ -31,7 +31,7 @@ namespace LinqSample
 				listadatos.Add (usuario);
 				bool correcto=false;
 				while (!correcto) {
-					Console.WriteLine ("Deseas ingresar un nuevo registros S/N");
+					Console.WriteLine ("Deseas ingresar un nuevo registro S/N");
 					string res = Console.ReadLine ().ToUpper();
 					if (res == "S") {
 						ingresar = true;
