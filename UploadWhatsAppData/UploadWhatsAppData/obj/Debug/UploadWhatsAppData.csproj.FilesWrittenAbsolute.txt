@@ -1,0 +1,13 @@
+/Users/alejandroruizvarela/Projects/UploadWhatsAppData/UploadWhatsAppData/obj/Debug/MonoAndroid,Version=v4.0.3.AssemblyAttribute.cs
+/Users/alejandroruizvarela/Projects/UploadWhatsAppData/UploadWhatsAppData/bin/Debug/UploadWhatsAppData.dll.mdb
+/Users/alejandroruizvarela/Projects/UploadWhatsAppData/UploadWhatsAppData/bin/Debug/UploadWhatsAppData.dll
+/Users/alejandroruizvarela/Projects/UploadWhatsAppData/UploadWhatsAppData/bin/Debug/UploadWhatsAppData.UploadWhatsAppData.apk
+/Users/alejandroruizvarela/Projects/UploadWhatsAppData/UploadWhatsAppData/obj/Debug/android/bin/UploadWhatsAppData.UploadWhatsAppData.apk
+/Users/alejandroruizvarela/Projects/UploadWhatsAppData/UploadWhatsAppData/obj/Debug/res/layout/main.xml
+/Users/alejandroruizvarela/Projects/UploadWhatsAppData/UploadWhatsAppData/obj/Debug/res/values/strings.xml
+/Users/alejandroruizvarela/Projects/UploadWhatsAppData/UploadWhatsAppData/obj/Debug/res/drawable/icon.png
+/Users/alejandroruizvarela/Projects/UploadWhatsAppData/UploadWhatsAppData/obj/Debug/R.cs.flag
+/Users/alejandroruizvarela/Projects/UploadWhatsAppData/UploadWhatsAppData/bin/Debug/UploadWhatsAppData.UploadWhatsAppData-Signed.apk
+/Users/alejandroruizvarela/Projects/UploadWhatsAppData/UploadWhatsAppData/obj/Debug/uploadflags.txt
+/Users/alejandroruizvarela/Projects/UploadWhatsAppData/UploadWhatsAppData/obj/Debug/UploadWhatsAppData.dll
+/Users/alejandroruizvarela/Projects/UploadWhatsAppData/UploadWhatsAppData/obj/Debug/UploadWhatsAppData.dll.mdb
