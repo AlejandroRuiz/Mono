@@ -1,0 +1,16 @@
+/Users/alejandroruizvarela/Projects/Facebook/Facebook/obj/Debug/MonoAndroid,Version=v4.0.3.AssemblyAttribute.cs
+/Users/alejandroruizvarela/Projects/Facebook/Facebook/bin/Debug/Xamarin.Auth.Android.dll
+/Users/alejandroruizvarela/Projects/Facebook/Facebook/bin/Debug/Xamarin.Social.Android.dll
+/Users/alejandroruizvarela/Projects/Facebook/Facebook/bin/Debug/Facebook.dll.mdb
+/Users/alejandroruizvarela/Projects/Facebook/Facebook/bin/Debug/Facebook.dll
+/Users/alejandroruizvarela/Projects/Facebook/Facebook/bin/Debug/Facebook.Facebook.apk
+/Users/alejandroruizvarela/Projects/Facebook/Facebook/obj/Debug/android/bin/Facebook.Facebook.apk
+/Users/alejandroruizvarela/Projects/Facebook/Facebook/obj/Debug/res/layout/main.xml
+/Users/alejandroruizvarela/Projects/Facebook/Facebook/obj/Debug/res/values/strings.xml
+/Users/alejandroruizvarela/Projects/Facebook/Facebook/obj/Debug/res/drawable/icon.png
+/Users/alejandroruizvarela/Projects/Facebook/Facebook/obj/Debug/res/layout/sharexml.xml
+/Users/alejandroruizvarela/Projects/Facebook/Facebook/obj/Debug/R.cs.flag
+/Users/alejandroruizvarela/Projects/Facebook/Facebook/bin/Debug/Facebook.Facebook-Signed.apk
+/Users/alejandroruizvarela/Projects/Facebook/Facebook/obj/Debug/uploadflags.txt
+/Users/alejandroruizvarela/Projects/Facebook/Facebook/obj/Debug/Facebook.dll
+/Users/alejandroruizvarela/Projects/Facebook/Facebook/obj/Debug/Facebook.dll.mdb

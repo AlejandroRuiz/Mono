@@ -1,0 +1,3 @@
+/Users/alejandroruizvarela/Projects/Facebook/Facebook/bin/Debug/Facebook.dll
+/Users/alejandroruizvarela/Projects/Facebook/Components/xamarin.social-1.1/lib/android/Xamarin.Auth.Android.dll
+/Users/alejandroruizvarela/Projects/Facebook/Components/xamarin.social-1.1/lib/android/Xamarin.Social.Android.dll

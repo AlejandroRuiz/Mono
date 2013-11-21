@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="center">
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtEstado1" />
+    <Button
+        android:text="Publicar Estado"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnEstado" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtEstado2" />
+    <Button
+        android:text="Publicar Estado + Link"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnEstadoLink" />
+    <ImageView
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:id="@+id/imageViewFoto" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtEstado3" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout1"
+        android:gravity="center">
+        <Button
+            android:text="Capturar Foto"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/btnCaptura"
+            android:gravity="center" />
+        <Button
+            android:text="Publicar Foto"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:id="@+id/btnPublicar"
+            android:gravity="center" />
+    </LinearLayout>
+</LinearLayout>

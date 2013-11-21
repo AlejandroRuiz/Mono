@@ -1,0 +1,12 @@
+Facebook.MainActivity;facebook.MainActivity
+Facebook.ShareActivity;facebook.ShareActivity
+Xamarin.Auth.AndroidAccountStore.SecretAccount;xamarin.auth.AndroidAccountStore_SecretAccount
+Xamarin.Auth.FormAuthenticatorActivity;xamarin.auth.FormAuthenticatorActivity
+Xamarin.Auth.FormAuthenticatorActivity.State;xamarin.auth.FormAuthenticatorActivity_State
+Xamarin.Auth.WebAuthenticatorActivity;xamarin.auth.WebAuthenticatorActivity
+Xamarin.Auth.WebAuthenticatorActivity.State;xamarin.auth.WebAuthenticatorActivity_State
+Xamarin.Auth.WebAuthenticatorActivity.Client;xamarin.auth.WebAuthenticatorActivity_Client
+Xamarin.Social.ShareActivity;xamarin.social.ShareActivity
+Xamarin.Social.ShareActivity.State;xamarin.social.ShareActivity_State
+Xamarin.Social.ShareActivity.AttachmentView;xamarin.social.ShareActivity_AttachmentView
+Xamarin.Social.ToolbarView;xamarin.social.ToolbarView

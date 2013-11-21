@@ -1,0 +1,15 @@
+Xamarin.Social.Sample.Android.MainActivity;xamarin.social.sample.android.MainActivity
+Xamarin.AsyncQuery`1;xamarin.AsyncQuery_1
+Xamarin.Geolocation.GeolocationContinuousListener;xamarin.geolocation.GeolocationContinuousListener
+Xamarin.Geolocation.GeolocationSingleListener;xamarin.geolocation.GeolocationSingleListener
+Xamarin.Media.MediaPickerActivity;xamarin.media.MediaPickerActivity
+Xamarin.Social.ShareActivity;xamarin.social.ShareActivity
+Xamarin.Social.ShareActivity.State;xamarin.social.ShareActivity_State
+Xamarin.Social.ShareActivity.AttachmentView;xamarin.social.ShareActivity_AttachmentView
+Xamarin.Social.ToolbarView;xamarin.social.ToolbarView
+Xamarin.Auth.AndroidAccountStore.SecretAccount;xamarin.auth.AndroidAccountStore_SecretAccount
+Xamarin.Auth.FormAuthenticatorActivity;xamarin.auth.FormAuthenticatorActivity
+Xamarin.Auth.FormAuthenticatorActivity.State;xamarin.auth.FormAuthenticatorActivity_State
+Xamarin.Auth.WebAuthenticatorActivity;xamarin.auth.WebAuthenticatorActivity
+Xamarin.Auth.WebAuthenticatorActivity.State;xamarin.auth.WebAuthenticatorActivity_State
+Xamarin.Auth.WebAuthenticatorActivity.Client;xamarin.auth.WebAuthenticatorActivity_Client
