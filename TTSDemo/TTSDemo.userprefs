@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TTSDemo/MainActivity.cs">
+    <Files>
+      <File FileName="TTSDemo/MainActivity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TTSDemo MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" AndroidDeviceId-Debug="014E240C05016018" />
+</Properties>
