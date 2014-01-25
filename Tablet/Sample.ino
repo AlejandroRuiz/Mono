@@ -1,0 +1,55 @@
+int led=13, msg=0;
+void setup()
+{
+   pinMode(led,OUTPUT);
+  Serial1.begin(9600); 
+}
+void loop()
+{
+  while(Serial1.available()>0)
+  {
+    msg=Serial1.read();
+    if(msg=='e')
+    {
+      digitalWrite(led,HIGH);
+      Serial1.write('H');
+      delay(1000);
+      digitalWrite(led,LOW);
+      Serial1.write('E');
+      delay(1000);
+      digitalWrite(led,HIGH);
+      Serial1.write('L');
+      delay(1000);
+      digitalWrite(led,LOW);
+      Serial1.write('L');
+      delay(1000);
+      digitalWrite(led,HIGH);
+      Serial1.write('O');
+      delay(1000);
+      digitalWrite(led,LOW);
+      delay(500);
+      digitalWrite(led,HIGH);
+      delay(500);
+      digitalWrite(led,LOW);
+      delay(500);
+      digitalWrite(led,HIGH);
+      delay(500);
+      digitalWrite(led,LOW);
+      delay(500);
+      digitalWrite(led,HIGH);
+      delay(500);
+      digitalWrite(led,LOW);
+      delay(500);
+      digitalWrite(led,HIGH);
+      delay(500);
+      digitalWrite(led,LOW);
+      delay(500);
+      digitalWrite(led,HIGH);
+      delay(500);
+      digitalWrite(led,LOW);
+      delay(500);
+      Serial1.write(' ');
+      Serial1.write("OK");
+    }
+  }
+}

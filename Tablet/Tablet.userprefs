@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tablet/MainActivity.cs">
+    <Files>
+      <File FileName="Tablet/MainActivity.cs" Line="120" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Tablet MonoForAntroid.PreferredDevice="4in WVGA (Nexus S)" AndroidDeviceId-Debug="192.168.1.64:5555" />
+</Properties>
