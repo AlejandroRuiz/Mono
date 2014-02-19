@@ -1,0 +1,11 @@
+C:\Users\Alex\documents\visual studio 2013\Projects\Core.Sample\Calc.WinF\bin\Debug\Calc.WinF.exe.config
+C:\Users\Alex\documents\visual studio 2013\Projects\Core.Sample\Calc.WinF\bin\Debug\Calc.WinF.exe
+C:\Users\Alex\documents\visual studio 2013\Projects\Core.Sample\Calc.WinF\bin\Debug\Calc.WinF.pdb
+C:\Users\Alex\documents\visual studio 2013\Projects\Core.Sample\Calc.WinF\bin\Debug\Core.Sample.dll
+C:\Users\Alex\documents\visual studio 2013\Projects\Core.Sample\Calc.WinF\bin\Debug\Core.Sample.pdb
+C:\Users\Alex\documents\visual studio 2013\Projects\Core.Sample\Calc.WinF\obj\Debug\Calc.WinF.csprojResolveAssemblyReference.cache
+C:\Users\Alex\documents\visual studio 2013\Projects\Core.Sample\Calc.WinF\obj\Debug\Calc.WinF.Form1.resources
+C:\Users\Alex\documents\visual studio 2013\Projects\Core.Sample\Calc.WinF\obj\Debug\Calc.WinF.Properties.Resources.resources
+C:\Users\Alex\documents\visual studio 2013\Projects\Core.Sample\Calc.WinF\obj\Debug\Calc.WinF.csproj.GenerateResource.Cache
+C:\Users\Alex\documents\visual studio 2013\Projects\Core.Sample\Calc.WinF\obj\Debug\Calc.WinF.exe
+C:\Users\Alex\documents\visual studio 2013\Projects\Core.Sample\Calc.WinF\obj\Debug\Calc.WinF.pdb

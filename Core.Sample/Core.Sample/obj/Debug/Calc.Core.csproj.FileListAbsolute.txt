@@ -1,0 +1,5 @@
+C:\Users\Alex\documents\visual studio 2013\Projects\Core.Sample\Core.Sample\bin\Debug\Core.Sample.dll
+C:\Users\Alex\documents\visual studio 2013\Projects\Core.Sample\Core.Sample\bin\Debug\Core.Sample.pdb
+C:\Users\Alex\documents\visual studio 2013\Projects\Core.Sample\Core.Sample\obj\Debug\Calc.Core.csprojResolveAssemblyReference.cache
+C:\Users\Alex\documents\visual studio 2013\Projects\Core.Sample\Core.Sample\obj\Debug\Core.Sample.dll
+C:\Users\Alex\documents\visual studio 2013\Projects\Core.Sample\Core.Sample\obj\Debug\Core.Sample.pdb
