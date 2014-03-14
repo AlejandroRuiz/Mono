@@ -1,0 +1,2 @@
+C:\Users\Carolina\Documents\Projects\XamarinA\XamarinA\bin\Debug\XamarinA.dll
+C:\Users\Carolina\Documents\Projects\XamarinA\Components\xamarin.auth-1.2.2\lib\android\Xamarin.Auth.Android.dll
