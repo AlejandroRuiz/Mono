@@ -1,0 +1,1 @@
+MJPGApp.MainActivity;mjpgapp.MainActivity

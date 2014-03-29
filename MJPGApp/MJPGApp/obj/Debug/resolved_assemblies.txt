@@ -1,0 +1,2 @@
+C:\Users\Carolina\Documents\Projects\MJPGApp\MJPGApp\bin\Debug\MJPGApp.dll
+C:\Users\Carolina\Documents\Projects\MJPGApp\BindingClass\bin\Debug\BindingClass.dll
