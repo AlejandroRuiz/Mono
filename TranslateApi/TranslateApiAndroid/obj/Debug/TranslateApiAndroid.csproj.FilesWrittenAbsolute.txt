@@ -1,0 +1,14 @@
+/Users/developerii/Projects/TranslateApi/TranslateApiAndroid/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/developerii/Projects/TranslateApi/TranslateApiAndroid/bin/Debug/TranslateApiAndroid.dll.mdb
+/Users/developerii/Projects/TranslateApi/TranslateApiAndroid/bin/Debug/TranslateApiAndroid.dll
+/Users/developerii/Projects/TranslateApi/TranslateApiAndroid/bin/Debug/TranslateApiAndroid.TranslateApiAndroid.apk
+/Users/developerii/Projects/TranslateApi/TranslateApiAndroid/obj/Debug/android/bin/TranslateApiAndroid.TranslateApiAndroid.apk
+/Users/developerii/Projects/TranslateApi/TranslateApiAndroid/obj/Debug/res/layout/main.xml
+/Users/developerii/Projects/TranslateApi/TranslateApiAndroid/obj/Debug/res/values/strings.xml
+/Users/developerii/Projects/TranslateApi/TranslateApiAndroid/obj/Debug/res/drawable/icon.png
+/Users/developerii/Projects/TranslateApi/TranslateApiAndroid/obj/Debug/res/values-es/strings.xml
+/Users/developerii/Projects/TranslateApi/TranslateApiAndroid/obj/Debug/R.cs.flag
+/Users/developerii/Projects/TranslateApi/TranslateApiAndroid/bin/Debug/TranslateApiAndroid.TranslateApiAndroid-Signed.apk
+/Users/developerii/Projects/TranslateApi/TranslateApiAndroid/obj/Debug/uploadflags.txt
+/Users/developerii/Projects/TranslateApi/TranslateApiAndroid/obj/Debug/TranslateApiAndroid.dll
+/Users/developerii/Projects/TranslateApi/TranslateApiAndroid/obj/Debug/TranslateApiAndroid.dll.mdb
