@@ -1,0 +1,13 @@
+C:\Users\Carolina\Documents\Projects\OTGLibrary\Bluetooth\bin\Debug\Bluetooth.dll
+C:\Users\Carolina\Documents\Projects\OTGLibrary\Bluetooth\bin\Debug\Bluetooth.pdb
+C:\Users\Carolina\Documents\Projects\OTGLibrary\Bluetooth\bin\Debug\Bluetooth.dll.mdb
+C:\Users\Carolina\Documents\Projects\OTGLibrary\Bluetooth\bin\Debug\Bluetooth.Bluetooth.apk
+C:\Users\Carolina\Documents\Projects\OTGLibrary\Bluetooth\bin\Debug\Bluetooth.Bluetooth-Signed.apk
+C:\Users\Carolina\Documents\Projects\OTGLibrary\Bluetooth\obj\Debug\Bluetooth.dll
+C:\Users\Carolina\Documents\Projects\OTGLibrary\Bluetooth\obj\Debug\Bluetooth.pdb
+C:\Users\Carolina\Documents\Projects\OTGLibrary\Bluetooth\obj\Debug\android\bin\Bluetooth.Bluetooth.apk
+C:\Users\Carolina\Documents\Projects\OTGLibrary\Bluetooth\obj\Debug\res\layout\main.xml
+C:\Users\Carolina\Documents\Projects\OTGLibrary\Bluetooth\obj\Debug\res\values\strings.xml
+C:\Users\Carolina\Documents\Projects\OTGLibrary\Bluetooth\obj\Debug\res\drawable\icon.png
+C:\Users\Carolina\Documents\Projects\OTGLibrary\Bluetooth\obj\Debug\R.cs.flag
+C:\Users\Carolina\Documents\Projects\OTGLibrary\Bluetooth\obj\Debug\uploadflags.txt

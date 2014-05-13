@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTGLibrary", "OTGLibrary\OTGLibrary.csproj", "{BAA365F9-32A5-4E98-9BDA-6346DF0D7C55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTGExample", "OTGExample\OTGExample.csproj", "{97B9F48F-FEFE-4F35-8F69-5D3567ADBB58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bluetooth", "Bluetooth\Bluetooth.csproj", "{0A66C25E-1837-4A33-A918-64A3E840E845}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A66C25E-1837-4A33-A918-64A3E840E845}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A66C25E-1837-4A33-A918-64A3E840E845}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A66C25E-1837-4A33-A918-64A3E840E845}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A66C25E-1837-4A33-A918-64A3E840E845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97B9F48F-FEFE-4F35-8F69-5D3567ADBB58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97B9F48F-FEFE-4F35-8F69-5D3567ADBB58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97B9F48F-FEFE-4F35-8F69-5D3567ADBB58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97B9F48F-FEFE-4F35-8F69-5D3567ADBB58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAA365F9-32A5-4E98-9BDA-6346DF0D7C55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAA365F9-32A5-4E98-9BDA-6346DF0D7C55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAA365F9-32A5-4E98-9BDA-6346DF0D7C55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAA365F9-32A5-4E98-9BDA-6346DF0D7C55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = OTGExample\OTGExample.csproj
+	EndGlobalSection
+EndGlobal

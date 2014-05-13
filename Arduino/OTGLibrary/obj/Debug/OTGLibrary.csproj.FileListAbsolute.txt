@@ -1,0 +1,4 @@
+C:\Users\Carolina\Documents\Projects\OTGLibrary\OTGLibrary\bin\Debug\OTGLibrary.dll
+C:\Users\Carolina\Documents\Projects\OTGLibrary\OTGLibrary\bin\Debug\OTGLibrary.pdb
+C:\Users\Carolina\Documents\Projects\OTGLibrary\OTGLibrary\obj\Debug\OTGLibrary.dll
+C:\Users\Carolina\Documents\Projects\OTGLibrary\OTGLibrary\obj\Debug\OTGLibrary.pdb

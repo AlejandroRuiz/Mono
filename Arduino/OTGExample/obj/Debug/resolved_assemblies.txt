@@ -1,0 +1,2 @@
+C:\Users\Carolina\Documents\Projects\OTGLibrary\OTGExample\bin\Debug\OTGExample.dll
+C:\Users\Carolina\Documents\Projects\OTGLibrary\OTGLibrary\bin\Debug\OTGLibrary.dll

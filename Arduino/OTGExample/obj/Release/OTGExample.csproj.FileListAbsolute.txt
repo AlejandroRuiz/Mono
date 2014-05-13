@@ -1,0 +1,17 @@
+C:\Users\Carolina\Documents\Projects\OTGLibrary\OTGExample\bin\Release\OTGExample.dll
+C:\Users\Carolina\Documents\Projects\OTGLibrary\OTGExample\bin\Release\OTGExample.pdb
+C:\Users\Carolina\Documents\Projects\OTGLibrary\OTGExample\bin\Release\OTGExample.OTGExample.apk
+C:\Users\Carolina\Documents\Projects\OTGLibrary\OTGExample\bin\Release\OTGExample.OTGExample-Signed.apk
+C:\Users\Carolina\Documents\Projects\OTGLibrary\OTGExample\bin\Release\OTGLibrary.dll
+C:\Users\Carolina\Documents\Projects\OTGLibrary\OTGExample\bin\Release\OTGLibrary.pdb
+C:\Users\Carolina\Documents\Projects\OTGLibrary\OTGExample\obj\Release\OTGExample.csprojResolveAssemblyReference.cache
+C:\Users\Carolina\Documents\Projects\OTGLibrary\OTGExample\obj\Release\OTGExample.dll
+C:\Users\Carolina\Documents\Projects\OTGLibrary\OTGExample\obj\Release\OTGExample.pdb
+C:\Users\Carolina\Documents\Projects\OTGLibrary\OTGExample\obj\Release\android\bin\OTGExample.OTGExample.apk
+C:\Users\Carolina\Documents\Projects\OTGLibrary\OTGExample\obj\Release\res\layout\main.xml
+C:\Users\Carolina\Documents\Projects\OTGLibrary\OTGExample\obj\Release\res\values\strings.xml
+C:\Users\Carolina\Documents\Projects\OTGLibrary\OTGExample\obj\Release\res\drawable\icon.png
+C:\Users\Carolina\Documents\Projects\OTGLibrary\OTGExample\obj\Release\res\xml\device_filter.xml
+C:\Users\Carolina\Documents\Projects\OTGLibrary\OTGExample\obj\Release\R.cs.flag
+C:\Users\Carolina\Documents\Projects\OTGLibrary\OTGExample\obj\Release\uploadflags.txt
+C:\Users\Carolina\Documents\Projects\OTGLibrary\OTGExample\bin\Release\OTGLibrary.dll.mdb

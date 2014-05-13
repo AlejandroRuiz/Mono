@@ -1,0 +1,3 @@
+com.hoho.android.usbserial.driver.FtdiSerialDriver$DeviceType:Com.Hoho.Android.Usbserial.Driver:FtdiSerialDriver.DeviceType
+com.hoho.android.usbserial.driver.UsbSerialProber:Com.Hoho.Android.Usbserial.Driver:UsbSerialProber
+com.hoho.android.usbserial.util.SerialInputOutputManager$State:Com.Hoho.Android.Usbserial.Util:SerialInputOutputManager.State
