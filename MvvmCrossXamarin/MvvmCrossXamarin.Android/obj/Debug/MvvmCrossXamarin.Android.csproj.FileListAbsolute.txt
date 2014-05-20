@@ -1,0 +1,17 @@
+C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.Android\bin\Debug\MvvmCrossXamarin.Android.dll
+C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.Android\bin\Debug\MvvmCrossXamarin.Android.pdb
+C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.Android\bin\Debug\MvvmCrossXamarin.Android.dll.mdb
+C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.Android\bin\Debug\MvvmCrossXamarin.Android.apk
+C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.Android\bin\Debug\MvvmCrossXamarin.Android-Signed.apk
+C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.Android\bin\Debug\MvvmCrossXamarin.dll
+C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.Android\bin\Debug\MvvmCrossXamarin.pdb
+C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.Android\bin\Debug\MvvmCrossXamarin.dll.mdb
+C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.Android\obj\Debug\MvvmCrossXamarin.Android.csprojResolveAssemblyReference.cache
+C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.Android\obj\Debug\MvvmCrossXamarin.Android.dll
+C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.Android\obj\Debug\MvvmCrossXamarin.Android.pdb
+C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.Android\obj\Debug\android\bin\MvvmCrossXamarin.Android.apk
+C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.Android\obj\Debug\res\layout\main.xml
+C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.Android\obj\Debug\res\values\strings.xml
+C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.Android\obj\Debug\res\drawable\icon.png
+C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.Android\obj\Debug\R.cs.flag
+C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.Android\obj\Debug\uploadflags.txt

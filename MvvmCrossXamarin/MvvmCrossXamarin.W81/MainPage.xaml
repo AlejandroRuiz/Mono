@@ -1,0 +1,15 @@
+﻿<Page
+    x:Class="MvvmCrossXamarin.W81.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MvvmXamarin.W81"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <TextBlock HorizontalAlignment="Left" Margin="33,34,0,0" TextWrapping="Wrap" Text="{Binding Text}" VerticalAlignment="Top" Height="85" Width="367" FontSize="24"/>
+        <TextBox HorizontalAlignment="Left" Margin="33,152,0,0" TextWrapping="Wrap" Text="{Binding Text, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Top" Width="367" Height="114" FontSize="24"/>
+        <Button Command="{Binding ClickEvent}" HorizontalAlignment="Left" Content="{Binding TimesString}" Margin="30,284,0,0" VerticalAlignment="Top" Width="373" />
+    </Grid>
+</Page>

@@ -1,0 +1,5 @@
+/Users/developerii/Projects/MvvmCrossXamarin/MvvmCrossXamarin/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/developerii/Projects/MvvmCrossXamarin/MvvmCrossXamarin/bin/Debug/MvvmCrossXamarin.dll.mdb
+/Users/developerii/Projects/MvvmCrossXamarin/MvvmCrossXamarin/bin/Debug/MvvmCrossXamarin.dll
+/Users/developerii/Projects/MvvmCrossXamarin/MvvmCrossXamarin/obj/Debug/MvvmCrossXamarin.dll
+/Users/developerii/Projects/MvvmCrossXamarin/MvvmCrossXamarin/obj/Debug/MvvmCrossXamarin.dll.mdb

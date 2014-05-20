@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ITEXICODII</Machine>
+    <WindowsUser>Developerii</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>a72e5ee9-810a-42ec-86a5-5bcdd4552d46</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.W81\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>C35E207DAB262515E2AE15C77F24F3B4DB67530E5892CD2BE8F76FBD779E90ED</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>a72e5ee9-810a-42ec-86a5-5bcdd4552d46_1.0.0.0_neutral__j67fwrn6xps7m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>a72e5ee9-810a-42ec-86a5-5bcdd4552d46_j67fwrn6xps7m!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>a72e5ee9-810a-42ec-86a5-5bcdd4552d46</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Developerii</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.W81\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-05-20T17:34:38.825</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.W81\bin\Debug\MvvmXamarin.W81.exe">
+      <PackagePath>MvvmXamarin.W81.exe</PackagePath>
+      <Modified>2014-05-20T17:36:41.781</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin\bin\Debug\MvvmXamarin.dll">
+      <PackagePath>MvvmXamarin.dll</PackagePath>
+      <Modified>2014-05-20T17:36:26.990</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.W81\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.W81\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.W81\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.W81\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-07-23T11:01:02.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.W81\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-05-20T17:36:41.467</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.W81\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2014-05-20T17:34:38.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.W81\bin\Debug\MvvmXamarin.W81.xr.xml">
+      <PackagePath>MvvmXamarin.W81.xr.xml</PackagePath>
+      <Modified>2014-05-20T17:34:38.027</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.W81\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-05-20T17:34:38.756</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,10 @@
+mscorlib.dll
+System.dll
+System.Core.dll
+Mono.Dynamic.Interpreter.dll
+System.Xml.dll
+MvvmCrossXamarin.dll
+System.Threading.dll
+System.ObjectModel.dll
+System.Runtime.dll
+System.ComponentModel.Composition.dll

@@ -1,0 +1,1 @@
+MvvmXamarin.Android.MainActivity;mvvmxamarin.android.MainActivity

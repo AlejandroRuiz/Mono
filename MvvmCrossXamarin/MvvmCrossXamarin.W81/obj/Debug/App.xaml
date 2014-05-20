@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="MvvmCrossXamarin.W81.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MvvmXamarin.W81">
+
+</Application>
+

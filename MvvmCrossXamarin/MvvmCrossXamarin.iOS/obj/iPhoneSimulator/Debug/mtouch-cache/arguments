@@ -1,0 +1,29 @@
+# Version: 7.2.3.35 (9e24c88)
+# [first argument, ignore] # /Users/developerii/Projects/MvvmCrossXamarin/MvvmCrossXamarin.iOS/bin/iPhoneSimulator/Debug/mtouch.exe
+/Developer/MonoTouch/usr/bin/mtouch \
+	-sdkroot \
+	/Applications/Xcode.app/Contents/Developer \
+	--cache \
+	/Users/developerii/Projects/MvvmCrossXamarin/MvvmCrossXamarin.iOS/obj/iPhoneSimulator/Debug/mtouch-cache \
+	--nomanifest \
+	--nosign \
+	-sim \
+	/Users/developerii/Projects/MvvmCrossXamarin/MvvmCrossXamarin.iOS/bin/iPhoneSimulator/Debug/MvvmCrossXamariniOS.app \
+	-r \
+	/Users/developerii/Projects/MvvmCrossXamarin/MvvmCrossXamarin/bin/Debug/MvvmCrossXamarin.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Xml.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/System.Core.dll \
+	-r \
+	/Developer/MonoTouch/usr/lib/mono/2.1/monotouch.dll \
+	-debug \
+	-nolink \
+	-sdk \
+	7.1 \
+	-targetver \
+	7.0 \
+	--abi=i386 \
+	/Users/developerii/Projects/MvvmCrossXamarin/MvvmCrossXamarin.iOS/bin/iPhoneSimulator/Debug/MvvmCrossXamariniOS.exe \

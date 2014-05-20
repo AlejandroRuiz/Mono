@@ -1,0 +1,15 @@
+/Users/developerii/Projects/MvvmCrossXamarin/MvvmCrossXamarin.Android/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/developerii/Projects/MvvmCrossXamarin/MvvmCrossXamarin.Android/bin/Debug/MvvmCrossXamarin.Android.dll.mdb
+/Users/developerii/Projects/MvvmCrossXamarin/MvvmCrossXamarin.Android/bin/Debug/MvvmCrossXamarin.Android.dll
+/Users/developerii/Projects/MvvmCrossXamarin/MvvmCrossXamarin.Android/bin/Debug/MvvmCrossXamarin.Android.apk
+/Users/developerii/Projects/MvvmCrossXamarin/MvvmCrossXamarin.Android/obj/Debug/android/bin/MvvmCrossXamarin.Android.apk
+/Users/developerii/Projects/MvvmCrossXamarin/MvvmCrossXamarin.Android/obj/Debug/res/layout/main.xml
+/Users/developerii/Projects/MvvmCrossXamarin/MvvmCrossXamarin.Android/obj/Debug/res/values/strings.xml
+/Users/developerii/Projects/MvvmCrossXamarin/MvvmCrossXamarin.Android/obj/Debug/res/drawable/icon.png
+/Users/developerii/Projects/MvvmCrossXamarin/MvvmCrossXamarin.Android/obj/Debug/R.cs.flag
+/Users/developerii/Projects/MvvmCrossXamarin/MvvmCrossXamarin.Android/bin/Debug/MvvmCrossXamarin.Android-Signed.apk
+/Users/developerii/Projects/MvvmCrossXamarin/MvvmCrossXamarin.Android/obj/Debug/uploadflags.txt
+/Users/developerii/Projects/MvvmCrossXamarin/MvvmCrossXamarin.Android/obj/Debug/MvvmCrossXamarin.Android.dll
+/Users/developerii/Projects/MvvmCrossXamarin/MvvmCrossXamarin.Android/obj/Debug/MvvmCrossXamarin.Android.dll.mdb
+/Users/developerii/Projects/MvvmCrossXamarin/MvvmCrossXamarin.Android/bin/Debug/MvvmCrossXamarin.dll
+/Users/developerii/Projects/MvvmCrossXamarin/MvvmCrossXamarin.Android/bin/Debug/MvvmCrossXamarin.dll.mdb

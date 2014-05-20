@@ -1,0 +1,2 @@
+C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.WPhone\MvvmXamarin.WPhone.csproj;neutral
+C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin\MvvmXamarin.csproj;neutral
