@@ -1,0 +1,7 @@
+/Users/developerii/Projects/SimpleListViewXamarinForms/SimpleListViewXamarinForms/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/developerii/Projects/SimpleListViewXamarinForms/SimpleListViewXamarinForms/bin/Debug/SimpleListViewXamarinForms.dll.mdb
+/Users/developerii/Projects/SimpleListViewXamarinForms/SimpleListViewXamarinForms/bin/Debug/SimpleListViewXamarinForms.dll
+/Users/developerii/Projects/SimpleListViewXamarinForms/SimpleListViewXamarinForms/obj/Debug/SimpleListViewXamarinForms.dll
+/Users/developerii/Projects/SimpleListViewXamarinForms/SimpleListViewXamarinForms/obj/Debug/SimpleListViewXamarinForms.dll.mdb
+/Users/developerii/Projects/SimpleListViewXamarinForms/SimpleListViewXamarinForms/bin/Debug/Xamarin.Forms.Core.dll
+/Users/developerii/Projects/SimpleListViewXamarinForms/SimpleListViewXamarinForms/bin/Debug/Xamarin.Forms.Xaml.dll
