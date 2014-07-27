@@ -1,0 +1,2 @@
+C:\Users\Carolina\Documents\Projects\Responsive\Responsive\bin\Debug\Responsive.dll
+C:\Users\Carolina\Documents\Projects\Responsive\Components\AndHUD-1.3.1\lib\android\AndHUD.dll

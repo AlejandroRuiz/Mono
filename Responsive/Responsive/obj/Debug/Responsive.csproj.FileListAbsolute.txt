@@ -1,0 +1,14 @@
+C:\Users\Carolina\Documents\Projects\Responsive\Responsive\bin\Debug\Responsive.dll
+C:\Users\Carolina\Documents\Projects\Responsive\Responsive\bin\Debug\Responsive.pdb
+C:\Users\Carolina\Documents\Projects\Responsive\Responsive\bin\Debug\Responsive.dll.mdb
+C:\Users\Carolina\Documents\Projects\Responsive\Responsive\bin\Debug\Responsive.Responsive.apk
+C:\Users\Carolina\Documents\Projects\Responsive\Responsive\bin\Debug\Responsive.Responsive-Signed.apk
+C:\Users\Carolina\Documents\Projects\Responsive\Responsive\bin\Debug\AndHUD.dll
+C:\Users\Carolina\Documents\Projects\Responsive\Responsive\obj\Debug\Responsive.dll
+C:\Users\Carolina\Documents\Projects\Responsive\Responsive\obj\Debug\Responsive.pdb
+C:\Users\Carolina\Documents\Projects\Responsive\Responsive\obj\Debug\android\bin\Responsive.Responsive.apk
+C:\Users\Carolina\Documents\Projects\Responsive\Responsive\obj\Debug\res\layout\main.xml
+C:\Users\Carolina\Documents\Projects\Responsive\Responsive\obj\Debug\res\values\strings.xml
+C:\Users\Carolina\Documents\Projects\Responsive\Responsive\obj\Debug\res\drawable\icon.png
+C:\Users\Carolina\Documents\Projects\Responsive\Responsive\obj\Debug\R.cs.flag
+C:\Users\Carolina\Documents\Projects\Responsive\Responsive\obj\Debug\uploadflags.txt

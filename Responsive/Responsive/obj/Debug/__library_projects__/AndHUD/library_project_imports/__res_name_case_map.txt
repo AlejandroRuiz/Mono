@@ -1,0 +1,13 @@
+values/attrs.xml;values/attrs.xml
+drawable-hdpi/ic_errorstatus.png;drawable-hdpi/ic_errorstatus.png
+drawable-hdpi/ic_successstatus.png;drawable-hdpi/ic_successstatus.png
+drawable-mdpi/ic_errorstatus.png;drawable-mdpi/ic_errorstatus.png
+drawable-mdpi/ic_successstatus.png;drawable-mdpi/ic_successstatus.png
+drawable-xhdpi/ic_errorstatus.png;drawable-xhdpi/ic_errorstatus.png
+drawable-xhdpi/ic_successstatus.png;drawable-xhdpi/ic_successstatus.png
+drawable/roundedbg.xml;drawable/roundedbg.xml
+drawable/roundedbgdark.xml;drawable/roundedbgdark.xml
+layout/loading.axml;layout/loading.xml
+layout/loadingprogress.axml;layout/loadingprogress.xml
+layout/loadingimage.xml;layout/loadingimage.xml
+values/strings.xml;values/strings.xml
