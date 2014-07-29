@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{000B7050-D1CA-4B98-AC5C-740A000B5E2C}</ProjectGuid>
+    <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Meme.Droid</RootNamespace>
+    <AssemblyName>Meme.Droid</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <AndroidApplication>true</AndroidApplication>
+    <AndroidResgenFile>Resources\Resource.Designer.cs</AndroidResgenFile>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
+    <AndroidSupportedAbis>armeabi,armeabi-v7a,x86</AndroidSupportedAbis>
+    <MandroidI18n />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidLinkMode>None</AndroidLinkMode>
+    <AndroidSupportedAbis>armeabi;armeabi-v7a;x86</AndroidSupportedAbis>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidUseSharedRuntime>False</AndroidUseSharedRuntime>
+    <AndroidStoreUncompressedFileExtensions>
+    </AndroidStoreUncompressedFileExtensions>
+    <JavaMaximumHeapSize>
+    </JavaMaximumHeapSize>
+    <JavaOptions>
+    </JavaOptions>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="GooglePlayServicesFroyoLib">
+      <HintPath>..\Components\googleplayservicesfroyo-12.0.2\lib\android\GooglePlayServicesFroyoLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Mono.Android" />
+    <Reference Include="mscorlib" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Xamarin.Android.Support.v4">
+      <HintPath>Components\xamandroidsupportv7appcompat-19.1.0\lib\android\Xamarin.Android.Support.v4.dll</HintPath>
+    </Reference>
+    <Reference Include="Xamarin.Android.Support.v7.AppCompat">
+      <HintPath>Components\xamandroidsupportv7appcompat-19.1.0\lib\android\Xamarin.Android.Support.v7.AppCompat.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Activity1.cs" />
+    <Compile Include="Helpers\Fragment1.cs" />
+    <Compile Include="Helpers\MyActionBarDrawerToggle.cs" />
+    <Compile Include="Resources\Resource.Designer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utils\LazyAdapter.cs" />
+    <Compile Include="FavActivity.cs" />
+    <Compile Include="DetailActivity.cs" />
+    <Compile Include="Utils\AutoResizeTextView.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AboutResources.txt" />
+    <None Include="Assets\AboutAssets.txt" />
+    <AndroidResource Include="Resources\Layout\NavDrawerFrag.axml">
+      <SubType>AndroidResource</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\Layout\Customized.axml" />
+    <AndroidResource Include="Resources\Layout\ItemMenu.axml" />
+    <AndroidResource Include="Resources\Layout\NavigationDrawer.axml" />
+    <AndroidResource Include="Resources\Layout\ProgressBar.axml" />
+    <AndroidResource Include="Resources\Layout\Share.axml" />
+    <AndroidResource Include="Resources\Layout\SplitActions.axml" />
+    <AndroidResource Include="Resources\Layout\UpNavigation.axml" />
+    <AndroidResource Include="Resources\drawable-mdpi\ic_action_favorite.png" />
+    <AndroidResource Include="Resources\Drawable\arrow.png" />
+    <AndroidResource Include="Resources\Drawable\gradient_bg.xml" />
+    <AndroidResource Include="Resources\Drawable\gradient_bg_hover.xml" />
+    <AndroidResource Include="Resources\Drawable\heart.png" />
+    <AndroidResource Include="Resources\Drawable\image_bg.xml" />
+    <AndroidResource Include="Resources\Drawable\list_selector.xml" />
+    <AndroidResource Include="Resources\Drawable\no_image.png" />
+    <AndroidResource Include="Resources\Drawable\play.png" />
+    <AndroidResource Include="Resources\Drawable\rihanna.png" />
+    <AndroidResource Include="Resources\Layout\list_row.axml" />
+    <AndroidResource Include="Resources\Layout\ListFrag.axml" />
+    <AndroidResource Include="Resources\Menu\context_menu.xml" />
+    <AndroidResource Include="Resources\Layout\Favorites.axml" />
+    <AndroidResource Include="Resources\Layout\Detail.axml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\Layout\Main.axml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\Values\Strings.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\Drawable\Icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Properties\AndroidManifest.xml" />
+    <AndroidResource Include="Resources\Drawable\ab_background_textured_customab.xml" />
+    <AndroidResource Include="Resources\Drawable\ab_bottom_solid.9.png" />
+    <AndroidResource Include="Resources\Drawable\ab_solid.9.png" />
+    <AndroidResource Include="Resources\Drawable\ab_stacked_solid.9.png" />
+    <AndroidResource Include="Resources\Drawable\activated_background.xml" />
+    <AndroidResource Include="Resources\Drawable\btn_cab_done_customab.xml" />
+    <AndroidResource Include="Resources\Drawable\default_icon.png" />
+    <AndroidResource Include="Resources\Drawable\list_activated_holo.9.png" />
+    <AndroidResource Include="Resources\Drawable\progress_horizontal_customab.xml" />
+    <AndroidResource Include="Resources\Drawable\selectable_background_customab.xml" />
+    <AndroidResource Include="Resources\Drawable\spinner_background_ab_customab.xml" />
+    <AndroidResource Include="Resources\Drawable\tab_indicator_ab_customab.xml" />
+    <AndroidResource Include="Resources\Values\colors.xml" />
+    <AndroidResource Include="Resources\Values\styles.xml" />
+    <AndroidResource Include="Resources\Values\styles_customab.xml" />
+    <AndroidResource Include="Resources\Menu\main_menu.xml" />
+    <AndroidResource Include="Resources\Menu\main_menu_custom.xml" />
+    <AndroidResource Include="Resources\Menu\main_menu_dark.xml" />
+    <AndroidResource Include="Resources\Menu\main_menu_share.xml" />
+    <AndroidResource Include="Resources\Menu\menu_search.xml" />
+    <AndroidResource Include="Resources\drawable-mdpi\ab_bottom_solid_customab.9.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\ab_solid_customab.9.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\ab_stacked_solid_customab.9.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\ab_texture_tile_customab.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\ab_transparent_customab.9.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\btn_cab_done_default_customab.9.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\btn_cab_done_focused_customab.9.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\btn_cab_done_pressed_customab.9.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\cab_background_bottom_customab.9.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\cab_background_top_customab.9.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\drawer_shadow_dark.9.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\drawer_shadow_light.9.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\ic_action_content_discard.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\ic_action_content_edit.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\ic_action_content_edit_dark.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\ic_action_content_save.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\ic_action_content_save_dark.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\ic_action_rating_good.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\ic_drawer_dark.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\ic_drawer_light.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\ic_launcher.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\list_focused_customab.9.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\list_pressed_customab.9.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\menu_dropdown_panel_customab.9.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\progress_bg_customab.9.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\progress_primary_customab.9.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\progress_secondary_customab.9.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\spinner_ab_default_customab.9.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\spinner_ab_disabled_customab.9.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\spinner_ab_focused_customab.9.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\spinner_ab_pressed_customab.9.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\tab_selected_customab.9.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\tab_selected_focused_customab.9.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\tab_selected_pressed_customab.9.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\tab_unselected_customab.9.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\tab_unselected_focused_customab.9.png" />
+    <AndroidResource Include="Resources\drawable-mdpi\tab_unselected_pressed_customab.9.png" />
+    <AndroidResource Include="Resources\Drawable\meme_logo.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <XamarinComponentReference Include="xamandroidsupportv7appcompat">
+      <Version>19.1.0</Version>
+      <Visible>False</Visible>
+    </XamarinComponentReference>
+    <XamarinComponentReference Include="googleplayservicesfroyo">
+      <Version>12.0.3</Version>
+      <Visible>False</Visible>
+    </XamarinComponentReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+     Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ItemGroup />
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\Carolina\Documents\Projects\HeartBeat\HeartBeat\bin\Debug\HeartBeat.dll
+C:\Users\Carolina\Documents\Projects\HeartBeat\HeartBeat\bin\Debug\HeartBeat.pdb
+C:\Users\Carolina\Documents\Projects\HeartBeat\HeartBeat\bin\Debug\HeartBeat.dll.mdb
+C:\Users\Carolina\Documents\Projects\HeartBeat\HeartBeat\bin\Debug\com.app.demo.apk
+C:\Users\Carolina\Documents\Projects\HeartBeat\HeartBeat\bin\Debug\com.app.demo-Signed.apk
+C:\Users\Carolina\Documents\Projects\HeartBeat\HeartBeat\obj\Debug\HeartBeat.dll
+C:\Users\Carolina\Documents\Projects\HeartBeat\HeartBeat\obj\Debug\HeartBeat.pdb
+C:\Users\Carolina\Documents\Projects\HeartBeat\HeartBeat\obj\Debug\android\bin\com.app.demo.apk
+C:\Users\Carolina\Documents\Projects\HeartBeat\HeartBeat\obj\Debug\res\layout\main.xml
+C:\Users\Carolina\Documents\Projects\HeartBeat\HeartBeat\obj\Debug\res\values\strings.xml
+C:\Users\Carolina\Documents\Projects\HeartBeat\HeartBeat\obj\Debug\res\drawable\icon.png
+C:\Users\Carolina\Documents\Projects\HeartBeat\HeartBeat\obj\Debug\res\drawable\heart.png
+C:\Users\Carolina\Documents\Projects\HeartBeat\HeartBeat\obj\Debug\res\layout\heart.xml
+C:\Users\Carolina\Documents\Projects\HeartBeat\HeartBeat\obj\Debug\R.cs.flag
+C:\Users\Carolina\Documents\Projects\HeartBeat\HeartBeat\obj\Debug\uploadflags.txt

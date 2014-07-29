@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Hello World, Click Me!</string>
+	<string name="app_name">ActionBarCompat</string>
+	<string name="save">Save</string>
+	<string name="edit">Edit</string>
+	<string name="share">Share</string>
+  <string name="drawer_open">Open</string>
+  <string name="drawer_close">Close</string>
+</resources>

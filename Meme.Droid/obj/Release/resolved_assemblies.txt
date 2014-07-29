@@ -1,0 +1,10 @@
+C:\Users\Carolina\MemeWebServices\Meme.Droid\bin\Release\Meme.Droid.dll
+C:\Users\Carolina\MemeWebServices\Components\googleplayservicesfroyo-12.0.2\lib\android\GooglePlayServicesFroyoLib.dll
+C:\Users\Carolina\MemeWebServices\Meme.Droid\Components\googleplayservicesfroyo-12.0.2\lib\android\Xamarin.Android.Support.v4.dll
+C:\Users\Carolina\MemeWebServices\Meme.Droid\Components\xamandroidsupportv7appcompat-7.18.0\lib\android\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Program Files\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\mscorlib.dll
+C:\Program Files\Reference Assemblies\Microsoft\Framework\MonoAndroid\v2.2\Mono.Android.dll
+C:\Program Files\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Xml.dll
+C:\Program Files\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.dll
+C:\Program Files\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Mono.Security.dll
+C:\Program Files\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Core.dll

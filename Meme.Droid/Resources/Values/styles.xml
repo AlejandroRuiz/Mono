@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <style name="BaseTheme" parent="@style/Theme.AppCompat.Light">
+    <!--App wide settings for base API levels, can be overriden-->
+    <item name="actionBarStyle">@style/BaseThemeActionBar</item>
+    <item name="android:windowBackground">@color/light_background</item>
+    <item name="android:colorBackground">@color/light_background</item>
+  </style>
+
+  <style name="AppTheme" parent="@style/BaseTheme">
+    <!--App wide settings for ALL API levels-->
+  </style>
+
+  <style name="BaseThemeActionBar" parent="@style/Widget.AppCompat.Light.ActionBar.Solid">
+    <item name="background">@drawable/ab_solid</item>
+    <item name="backgroundStacked">@drawable/ab_stacked_solid</item>
+    <item name="backgroundSplit">@drawable/ab_bottom_solid</item>
+  </style>
+</resources>
