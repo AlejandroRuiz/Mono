@@ -1,2 +1,0 @@
-OTGExample.MainActivity;otgexample.MainActivity
-Com.Hoho.Android.Usbserial.Util.SerialInputOutputManager.IListenerImplementor;mono.com.hoho.android.usbserial.util.SerialInputOutputManager_ListenerImplementor

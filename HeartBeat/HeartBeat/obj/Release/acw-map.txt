@@ -1,2 +1,0 @@
-HeartBeat.MainActivity;heartbeat.MainActivity
-HeartBeat.interpolator;heartbeat.interpolator

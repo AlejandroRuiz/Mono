@@ -1,1 +1,0 @@
-FacialDetection.MainActivity;facialdetection.MainActivity

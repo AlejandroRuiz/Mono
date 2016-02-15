@@ -1,5 +1,0 @@
-C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin\bin\Debug\MvvmXamarin.dll
-C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin\bin\Debug\MvvmXamarin.pdb
-C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin\obj\Debug\MvvmXamarin.dll
-C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin\obj\Debug\MvvmXamarin.pdb
-C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin\obj\Debug\MvvmXamarin.csprojResolveAssemblyReference.cache

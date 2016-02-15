@@ -1,4 +1,0 @@
-C:\Users\Carolina\Documents\Projects\OTGLibrary\OTGLibrary\bin\Release\OTGLibrary.dll
-C:\Users\Carolina\Documents\Projects\OTGLibrary\OTGLibrary\bin\Release\OTGLibrary.pdb
-C:\Users\Carolina\Documents\Projects\OTGLibrary\OTGLibrary\obj\Release\OTGLibrary.dll
-C:\Users\Carolina\Documents\Projects\OTGLibrary\OTGLibrary\obj\Release\OTGLibrary.pdb

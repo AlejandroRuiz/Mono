@@ -1,8 +1,0 @@
-C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.iOS\bin\iPhoneSimulator\Debug\MvvmXamariniOS.exe
-C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.iOS\bin\iPhoneSimulator\Debug\MvvmXamariniOS.pdb
-C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.iOS\bin\iPhoneSimulator\Debug\MvvmXamarin.dll
-C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.iOS\bin\iPhoneSimulator\Debug\MvvmXamarin.pdb
-C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.iOS\bin\iPhoneSimulator\Debug\MvvmXamarin.dll.mdb
-C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.iOS\obj\iPhoneSimulator\Debug\MvvmXamarin.iOS.csprojResolveAssemblyReference.cache
-C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.iOS\obj\iPhoneSimulator\Debug\MvvmXamariniOS.exe
-C:\Users\Developerii\Desktop\MvvmCrossXamarin\MvvmCrossXamarin.iOS\obj\iPhoneSimulator\Debug\MvvmXamariniOS.pdb

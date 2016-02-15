@@ -1,4 +1,0 @@
-C:\Users\Carolina\Documents\Projects\Interfaces\Interfaces\bin\Debug\Interfaces.exe
-C:\Users\Carolina\Documents\Projects\Interfaces\Interfaces\bin\Debug\Interfaces.pdb
-C:\Users\Carolina\Documents\Projects\Interfaces\Interfaces\obj\x86\Debug\Interfaces.exe
-C:\Users\Carolina\Documents\Projects\Interfaces\Interfaces\obj\x86\Debug\Interfaces.pdb

@@ -1,2 +1,0 @@
-F:\MvvmCrossXamarin\MvvmCrossXamarin.WPhone\MvvmCrossXamarin.WPhone.csproj;x86
-F:\MvvmCrossXamarin\MvvmCrossXamarin\MvvmCrossXamarin.csproj;neutral

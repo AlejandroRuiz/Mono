@@ -1,4 +1,0 @@
-C:\Users\Carolina\Documents\Projects\MJPGApp\BindingClass\bin\Debug\BindingClass.dll
-C:\Users\Carolina\Documents\Projects\MJPGApp\BindingClass\bin\Debug\BindingClass.pdb
-C:\Users\Carolina\Documents\Projects\MJPGApp\BindingClass\obj\Debug\BindingClass.dll
-C:\Users\Carolina\Documents\Projects\MJPGApp\BindingClass\obj\Debug\BindingClass.pdb

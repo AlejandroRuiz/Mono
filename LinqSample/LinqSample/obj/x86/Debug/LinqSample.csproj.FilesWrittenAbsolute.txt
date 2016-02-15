@@ -1,5 +1,0 @@
-/Users/alejandroruizvarela/Projects/LinqSample/LinqSample/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
-/Users/alejandroruizvarela/Projects/LinqSample/LinqSample/bin/Debug/LinqSample.exe.mdb
-/Users/alejandroruizvarela/Projects/LinqSample/LinqSample/bin/Debug/LinqSample.exe
-/Users/alejandroruizvarela/Projects/LinqSample/LinqSample/obj/x86/Debug/LinqSample.exe
-/Users/alejandroruizvarela/Projects/LinqSample/LinqSample/obj/x86/Debug/LinqSample.exe.mdb

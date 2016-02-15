@@ -1,3 +1,0 @@
-C:\Users\Carolina\Documents\Projects\MusicPlayerInfo\MusicPlayerInfo\bin\Debug\MusicPlayerInfo.dll
-C:\Users\Carolina\Documents\Projects\MusicPlayerInfo\Components\json.net-4.5.11\lib\android\Newtonsoft.Json.dll
-C:\Users\Carolina\Documents\Projects\MusicPlayerInfo\Components\xamandroidsupportv4-18-4.19.0.1\lib\android\Xamarin.Android.Support.v4.dll

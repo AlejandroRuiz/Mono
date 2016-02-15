@@ -1,7 +1,0 @@
-C:\Users\Carolina\Documents\Projects\HeartBeat\HeartBeat\bin\Release\HeartBeat.dll
-C:\Program Files\Reference Assemblies\Microsoft\Framework\MonoAndroid\v4.0.3\Mono.Android.dll
-C:\Program Files\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\mscorlib.dll
-C:\Program Files\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Xml.dll
-C:\Program Files\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.dll
-C:\Program Files\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\Mono.Security.dll
-C:\Program Files\Reference Assemblies\Microsoft\Framework\MonoAndroid\v1.0\System.Core.dll

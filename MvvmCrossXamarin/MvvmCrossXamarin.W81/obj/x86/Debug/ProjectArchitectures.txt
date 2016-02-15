@@ -1,2 +1,0 @@
-F:\MvvmCrossXamarin\MvvmCrossXamarin.W81\MvvmCrossXamarin.W81.csproj;x86
-F:\MvvmCrossXamarin\MvvmCrossXamarin\MvvmCrossXamarin.csproj;neutral

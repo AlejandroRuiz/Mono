@@ -1,1 +1,0 @@
-TranslateApiAndroid.MainActivity;translateapiandroid.MainActivity

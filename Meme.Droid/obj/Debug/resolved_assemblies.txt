@@ -1,4 +1,0 @@
-C:\Users\Carolina\MemeWebServices\Meme.Droid\bin\Debug\Meme.Droid.dll
-C:\Users\Carolina\MemeWebServices\Components\googleplayservicesfroyo-12.0.2\lib\android\GooglePlayServicesFroyoLib.dll
-C:\Users\Carolina\MemeWebServices\Meme.Droid\Components\xamandroidsupportv7appcompat-19.1.0\lib\android\Xamarin.Android.Support.v4.dll
-C:\Users\Carolina\MemeWebServices\Meme.Droid\Components\xamandroidsupportv7appcompat-19.1.0\lib\android\Xamarin.Android.Support.v7.AppCompat.dll
